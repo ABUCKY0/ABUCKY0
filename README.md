@@ -3,8 +3,24 @@
 
 ## 🚀 About Me
 I'm a High School student programmer, currently working on a number of projects. 
-* I'm currently trying to learn about networking on the side
 
+## Active Projects
+ - The PowerShell [installer](https://github.com/betterrtx/betterrtx-installer) for BetterRTX. 
+ - A JS based School Bell Schedule Countdown with [@hman124](https://github.com/hman124)
+ - Two different private Minecraft Java mods
+     - A Mod that allows me to play on a Minecraft Server made by LiveOverflow
+     - A Mod that allows me to play on a different server similar to the above one
+ - A Javascript based Softball/Baseball speed tracker
+
+## Older Projects (Not actively worked on)
+ - A Private fork of a Discord.js Modmail bot
+ - A Discord Rich Presence Client in Python for MLB Games
+ - C Based programs for a Vex Cortex robot (School Project)
+ - Multiple RTX Texture Packs
+ - A Python App that fetches the weather from OpenWeatherMap and displays it to a small LCD or Terminal
+ - Multiple Weather Bots on Twitter (Died with the API changes)
+ - CBPR (A Collection of Games we got off of GitHub and unblocked on School Chromebooks https://github.com/The-Chromebook-Project
+ - Numerous other projects not listed
 ## 🛠 Programming Languages I know
 
 ```java
