@@ -13,6 +13,7 @@ I'm a High School student programmer, currently working on a number of projects.
  - A Javascript based Softball/Baseball speed tracker
  - An RSS to Facebook, Instagram, and Discord bot, made for a nonproft called [HelioHost](https://heliohost.org/). Written in Python
  - A Collection of my C++ Projects for School
+ - A Python Library that makes getting Window's currently playing media much easier, including filtering by Application name.
 
 ## Older Projects (Not actively worked on)
  - A Private fork of a Discord.js Modmail bot
