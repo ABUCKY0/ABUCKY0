@@ -3,6 +3,11 @@
 
 ## 🚀 About Me
 I'm a High School Student Programmer, currently working on a number of projects. 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,blender,c,cpp,cloudflare,deno,discordjs,docker,git,github,gradle,html,java,js,linux,netlify,markdown,ps,py,raspberrypi,replit,vercel,vscode,windows&theme=light&perline=6" />
+  </a>
+</p>
 
 ## Active Projects
 ####  Robotics
