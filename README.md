@@ -5,7 +5,6 @@
 Hello There 👋! I'm a High School Student Programmer, and I love Robotics 🤖 and Programming. 
 
 - ⌚ Takes an Hour to Try and Center a Div
-- 
 
 <p align="center">
   <a href="https://skillicons.dev">
