@@ -8,7 +8,7 @@ Hello There 👋! I'm a High School Student Programmer, and I love Robotics 🤖
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,blender,c,cpp,cloudflare,deno,discordjs,docker,git,github,gradle,html,java,js,linux,netlify,markdown,ps,py,raspberrypi,replit,vercel,vscode,windows&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=bash,blender,c,cpp,cloudflare,deno,discordjs,docker,git,github,gradle,java,js,linux,netlify,markdown,ps,py,raspberrypi,replit,vercel,vscode,windows&theme=light&perline=6" />
   </a>
 </p>
 
