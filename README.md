@@ -15,6 +15,7 @@ Hello There 👋! I'm a High School Student Programmer, and I love Robotics 🤖
 ## Active Projects
 ####  Robotics
  - 💡 LedLib: An Early Testing Easy to Use WS2812B Led Strip Library for Vex Robotics
+ - ℹ️ VexLog: A Logging Library for PROS
 #### Misc
  - 💪 The PowerShell [installer](https://github.com/betterrtx/betterrtx-installer) and (part of) the backend API for BetterRTX. 
  - 🔔 A JS based [School Bell Schedule Countdown](https://github.com/abucky0/bell-countdown) with [@hman124](https://github.com/hman124)
@@ -22,7 +23,7 @@ Hello There 👋! I'm a High School Student Programmer, and I love Robotics 🤖
  - 🎶 A Python Library that makes getting Window's currently playing media much easier, including filtering by Application name.
 
 ## Older Projects (Not actively worked on)
- - ℹ️ A Discord Rich Presence Client in Python for MLB Games
+ - ⚾ A Discord Rich Presence Client in Python for MLB Games
  - ©️ C Based programs for a Vex Cortex robot (School Project)
  - 🌧️ A Python App that fetches the weather from OpenWeatherMap and displays it to a small LCD or Terminal
  - 🌡️ ~~Multiple Weather Bots on Twitter~~ (Died with the API changes)
