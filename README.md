@@ -16,6 +16,7 @@ Hello There 👋! I'm a High School Student Programmer, and I love Robotics 🤖
 ####  Robotics
  - 💡 LedLib: An Early Testing Easy to Use WS2812B Led Strip Library for Vex Robotics
  - ℹ️ VexLog: A Logging Library for PROS
+ - 🤖 24-25 High Stakes Robot: The codebase powering a Vex Robot for the 2024-25 VRC Season
 #### Misc
  - 💪 The PowerShell [installer](https://github.com/betterrtx/betterrtx-installer) and (part of) the backend API for BetterRTX. 
  - 🔔 A JS based [School Bell Schedule Countdown](https://github.com/abucky0/bell-countdown) with [@hman124](https://github.com/hman124)
