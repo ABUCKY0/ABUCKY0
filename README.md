@@ -1,5 +1,4 @@
-![image](https://github.com/ABUCKY0/ABUCKY0/assets/81783950/0fa53f79-5b29-4844-9793-5db5a96a5060)
-
+![Hello There3](https://github.com/ABUCKY0/ABUCKY0/assets/81783950/4fdbc4d4-8a9c-4e28-b154-744f1918c995)
 
 ## 🚀 About Me
 Hello There 👋! I'm a High School Student Programmer, and I love Robotics 🤖 and Programming. 
