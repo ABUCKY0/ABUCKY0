@@ -1,9 +1,8 @@
-![Hello There3](https://github.com/ABUCKY0/ABUCKY0/assets/81783950/4fdbc4d4-8a9c-4e28-b154-744f1918c995)
+
+![Hello There3](https://github.com/ABUCKY0/ABUCKY0/assets/81783950/6393840d-20c8-49a0-b8cc-e94ae4d172c2)
 
 ## 🚀 About Me
 Hello There 👋! I'm a High School Student Programmer, and I love Robotics 🤖 and Programming. 
-
-- ⌚ Takes an Hour to Try and Center a Div
 
 <p align="center">
   <a href="https://skillicons.dev">
