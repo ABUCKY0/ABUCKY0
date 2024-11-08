@@ -41,3 +41,4 @@ Hello There 👋! I'm a High School Student Programmer, and I love Robotics 🤖
 [![Twitter](https://img.shields.io/twitter/follow/abucky0?color=%23555555&logo=Twitter&style=for-the-badge)](https://twitter.com/abucky0)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@notjohnnytamale)
 [![Reddit](https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Clean_Impact_447)  
+![](https://komarev.com/ghpvc/?username=ABUCKY0&style=for-the-badge)
