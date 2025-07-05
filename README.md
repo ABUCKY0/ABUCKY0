@@ -2,7 +2,7 @@
 ![Hello There3](https://github.com/ABUCKY0/ABUCKY0/assets/81783950/6393840d-20c8-49a0-b8cc-e94ae4d172c2)
 
 ## 🚀 About Me
-Hello There 👋! I'm a High School Student Programmer, and I love Robotics 🤖 and Programming. 
+Hello There 👋! I'm a College Student Programmer, and I love Robotics 🤖 and Programming. 
 
 <p align="center">
   <a href="https://skillicons.dev">
