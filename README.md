@@ -4,11 +4,10 @@
 ## 🚀 About Me
 Hello There 👋! I'm a College Student Programmer, and I love Robotics 🤖 and Programming. 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,blender,c,cpp,cloudflare,deno,discordjs,docker,git,github,gradle,java,js,linux,netlify,markdown,ps,py,raspberrypi,replit,vercel,vscode,windows&theme=light&perline=6" />
-  </a>
-</p>
+<div style="width: 100%;">
+  <img src="test.svg" style="width: 100%;">
+</div>
+
 
 ## Active Projects
  - 💪 The PowerShell [installer](https://github.com/betterrtx/betterrtx-installer) and (part of) the backend API for BetterRTX. 
