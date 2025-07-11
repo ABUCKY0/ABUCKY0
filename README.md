@@ -5,8 +5,13 @@
 Hello There 👋! I'm a College Student Programmer, and I love Robotics 🤖 and Programming. 
  
 <div style="width: 100%;">
+<<<<<<< HEAD
   <img src="test-embedded.svg" style="width: 100%;">
 </div> 
+=======
+  <img src="test.svg" style="width: 100%;">
+</div>  
+>>>>>>> fcfa65f7fd756e1f43321ef1edb721039a60953e
  
 
 ## Active Projects
