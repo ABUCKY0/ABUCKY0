@@ -1,47 +1,55 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @keyframes hi  {
-            0% { transform: rotate( 0.0deg) }
-           10% { transform: rotate(14.0deg) }
-           20% { transform: rotate(-8.0deg) }
-           30% { transform: rotate(14.0deg) }
-           40% { transform: rotate(-4.0deg) }
-           50% { transform: rotate(10.0deg) }
-           60% { transform: rotate( 0.0deg) }
-          100% { transform: rotate( 0.0deg) }
-        }
-
-        .container {
-          background-color: black;
-
-          width: 100%;
-          height: 300px;
-
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          color: white;
-
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-        }
-
-        .hi {
-          animation: hi 1.5s linear -0.5s infinite;
-          display: inline-block;
-          transform-origin: 70% 70%;
-        }
-
-        @media (prefers-reduced-motion) {
-          .hi {
-            animation: none;
-          }
-        }
-      </style>
-
-      <div class="container">
-        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="height:100%; width:100%; background:#000; color:#f1f1f1; font-family:'Work Sans',sans-serif; display:flex; flex-direction:column;">
+      <div style="padding:2rem; flex:1; display:flex; flex-direction:column;">
+        <h1 style="font-size:3rem; font-weight:bold; text-align:center; margin:0;">Hey, I'm Aaron!</h1>
+        <a href="https://discord.com/users/925248483135463454" style="color:inherit; text-decoration:none;">
+          <div style="display:flex; justify-content:center; align-items:center; gap:0.5rem;">
+            <h2 style="margin:0; font-size:1.5rem;">aka NotJohnnyTamale</h2>
+            <span style="font-size:1.5rem; color:#7289da;">●</span>
+          </div>
+        </a>
+        <div style="display:flex; flex-direction:row; justify-content:center; align-items:center; gap:2rem; margin:2rem 0;">
+          <div style="flex:1; min-width:0; max-width:50rem;">
+            <p>I’m all of the following:</p>
+            <ul>
+              <li>Developer of random ass projects.</li>
+              <li>Freshman Computer Science Student.</li>
+              <li>Former Vex Robotics student</li>
+              <li>Raspberry Pi Tinkerer</li>
+            </ul>
+          </div>
+          <div style="border-left:2px solid #fff; height:12rem;"></div>
+          <div style="flex:1; display:flex; flex-wrap:wrap; gap:0.5rem; justify-content:center; align-items:center; max-width:50rem;">
+            <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="Blender" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=deno&theme=dark" alt="Deno" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=discordjs&theme=dark" alt="Discord.js" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=gradle&theme=dark" alt="Gradle" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Netlify" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=markdown&theme=dark" alt="Markdown" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=replit&theme=dark" alt="Replit" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="48" height="48"/>
+            <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" width="48" height="48"/>
+          </div>
+        </div>
+      </div>
+      <div style="background:#000; color:#777; text-align:center; font-size:1rem; padding:0.5rem 0;">
+        © 2025 abucky.dev
       </div>
     </div>
   </foreignObject>
