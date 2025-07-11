@@ -20,32 +20,6 @@
             </ul>
           </div>
           <div style="border-left:2px solid #fff; height:12rem;"></div>
-          <div style="flex:1; display:flex; flex-wrap:wrap; gap:0.5rem; justify-content:center; align-items:center; max-width:50rem;">
-            <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="Blender" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=deno&theme=dark" alt="Deno" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=discordjs&theme=dark" alt="Discord.js" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=gradle&theme=dark" alt="Gradle" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Netlify" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=markdown&theme=dark" alt="Markdown" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=replit&theme=dark" alt="Replit" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="48" height="48"/>
-            <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" width="48" height="48"/>
-          </div>
         </div>
       </div>
       <div style="background:#000; color:#777; text-align:center; font-size:1rem; padding:0.5rem 0;">
